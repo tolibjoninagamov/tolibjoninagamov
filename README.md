@@ -19,9 +19,9 @@ I am a full time student at Inha University in Tashkent, learning Full Stack Web
 
 <br/>
 
-## <img align="center" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/master/coding-2.gif" width="480">
+## <img text-align="center" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/master/coding-2.gif" width="480">
 <br>
-How about some stats ?
+
 
 <h3>
   <summary>
@@ -33,7 +33,7 @@ How about some stats ?
   <p align="center">
    <a href="https://github.com/shoirata">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shoirata&show_icons=true&theme=midnight-white&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoirata&show_icons=true&theme=midnight-white&layout=compact" alt="shoira" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoirata&show_icons=true&theme=midnight-white&layout=compact" alt="" />
   </a>
 </p>
 </h3>
