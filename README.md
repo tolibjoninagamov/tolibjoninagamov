@@ -39,7 +39,4 @@
   </p>
 </div>
 <br>
-<br>
-<br>
-
 ![Snake animation](https://github.com/Rashidov01/Rashidov01/blob/output/github-contribution-grid-snake.svg)
