@@ -38,3 +38,8 @@
     <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolibjoninagamov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham"/>
   </p>
 </div>
+<br>
+<br>
+<br>
+
+![Snake animation](https://github.com/Rashidov01/Rashidov01/blob/output/github-contribution-grid-snake.svg)
