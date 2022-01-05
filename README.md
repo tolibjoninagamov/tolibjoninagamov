@@ -59,7 +59,7 @@
 <p align="center">
 
 <a href = "https://www.linkedin.com/in/tony-carlos-10a21222a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://t.me/tolib797"><img src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" width:32px; height:32px; /></a>
+<a href = "https://t.me/tolib797"><img src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" style= "width:32px; height:32px;" /></a>
 <a href = "https://www.instagram.com/__1nagamofff__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /></a>
 
 </p>
