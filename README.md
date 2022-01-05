@@ -19,7 +19,7 @@ I am a full time student at Inha University in Tashkent, learning Full Stack Web
 
 <br/>
 
-## <img text-align="center" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/master/coding-2.gif" width="480">
+## <img talign="right" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/master/coding-2.gif" width="480">
 <br>
 
 
