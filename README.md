@@ -40,13 +40,13 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 My Github Statistics
 
   <br/>
-    <a align="center" href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a align="center" href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Tolibjon Inagamov's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a align="center" href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b align="center">Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
@@ -59,8 +59,8 @@
 <p align="center">
 
 <a href = "https://www.linkedin.com/in/tony-carlos-10a21222a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://t.me/tolib797"><img src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png"/></a>
-<a href = "https://www.instagram.com/__1nagamofff__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://t.me/tolib797"><img src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" width:32px; height:32px; /></a>
+<a href = "https://www.instagram.com/__1nagamofff__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /></a>
 
 </p>
 
