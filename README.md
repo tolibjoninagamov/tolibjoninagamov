@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://kwork.ru/user/shahriyorweb" target="_blank">Tolibjon</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Tolibjon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/__1nagamofff__/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/tolib797)
 [![](https://visitor-badge.glitch.me/badge?page_id=shahriyor-sharifjonov.shahriyor-sharifjonov)]()
